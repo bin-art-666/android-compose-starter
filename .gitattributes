@@ -1,0 +1,14 @@
+# Normalize line endings in the repository to LF.
+* text=auto eol=lf
+
+# Gradle wrapper scripts must keep LF so they stay executable on Linux/macOS.
+gradlew text eol=lf
+gradlew.bat text eol=crlf
+
+# Binary assets: never touch them.
+*.jar binary
+*.webp binary
+*.png binary
+*.jpg binary
+*.keystore binary
+*.jks binary

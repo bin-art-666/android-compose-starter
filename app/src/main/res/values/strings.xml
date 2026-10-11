@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">test</string>
+    <string name="app_name">视界有度</string>
+    <string name="service_description">视界有度使用无障碍服务识别选中的应用，计时并显示目标进度或定时提醒。提醒模式中，选择结束会返回桌面。动作模式读取页面结构识别抖音推荐页，拦截中央滑动，长按后代为执行一次切换。只保存使用时长和提醒统计，不保存屏幕文字、视频内容或输入信息。可随时暂停或在系统设置关闭服务。</string>
 </resources>

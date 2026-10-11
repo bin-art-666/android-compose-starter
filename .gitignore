@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Local device inspection artifacts and signing secrets
+/device-screen.png
+/device-window.xml
+*.jks
+*.keystore
+/keystore.properties
